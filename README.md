@@ -7,15 +7,6 @@
   An open-source AI chatbot app template built with Next.js, the Aivy AI SDK, OpenAI, and Aivy KV.
 </p>
 
-<p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#model-providers"><strong>Model Providers</strong></a> ·
-  <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
-  <a href="#running-locally"><strong>Running locally</strong></a> ·
-  <a href="#authors"><strong>Authors</strong></a>
-</p>
-<br/>
-
 ## Features
 
 - [Next.js](https://nextjs.org) App Router
@@ -36,8 +27,6 @@ This template ships with OpenAI `gpt-3.5-turbo` as the default. However, thanks 
 ## Deploy Your Own
 
 You can deploy your own version of the Next.js AI Chatbot to Aivy with one click:
-
-[![Deploy with Aivy](https://Aivy.com/button)](https://Aivy.com/new/clone?demo-title=Next.js+Chat&demo-description=A+full-featured%2C+hackable+Next.js+AI+chatbot+built+by+Aivy+Labs&demo-url=https%3A%2F%2Fchat.Aivy.ai%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F4aVPvWuTmBvzM5cEdRdqeW%2F4234f9baf160f68ffb385a43c3527645%2FCleanShot_2023-06-16_at_17.09.21.png&project-name=Next.js+Chat&repository-name=nextjs-chat&repository-url=https%3A%2F%2Fgithub.com%2FAivy-labs%2Fai-chatbot&from=templates&skippable-integrations=1&env=OPENAI_API_KEY%2CAUTH_SECRET&envDescription=How+to+get+these+env+vars&envLink=https%3A%2F%2Fgithub.com%2FAivy-labs%2Fai-chatbot%2Fblob%2Fmain%2F.env.example&teamCreateStatus=hidden&stores=[{"type":"kv"}])
 
 ## Creating a KV Database Instance
 
