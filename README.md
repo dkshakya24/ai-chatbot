@@ -3,6 +3,13 @@
   <h1 align="center">Aivy AI Chatbot</h1>
 </a>
 
+<<<<<<< HEAD
+=======
+<p align="center">
+  An open-source AI chatbot app template built with Next.js, the Aivy AI SDK, OpenAI, and Aivy KV.
+</p>
+
+>>>>>>> main
 ## Features
 
 - [Next.js](https://nextjs.org) App Router
